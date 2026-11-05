@@ -4,5 +4,6 @@
     <string name="alamat">Alamat</string>
     <string name="gender">Jenis Kelamin</string>
     <string name="laki">Laki-laki</string>
+    <string name="wanita">Perempuan</string>
 
 </resources>
